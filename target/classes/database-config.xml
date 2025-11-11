@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database-config>
+    <mongodb>
+        <connection-string>mongodb://localhost:27017</connection-string>
+        <database-name>library_management</database-name>
+        <collections>
+            <collection name="books"/>
+            <collection name="users"/>
+            <collection name="book_issues"/>
+            <collection name="fines"/>
+        </collections>
+        <connection-pool>
+            <max-connections>100</max-connections>
+            <min-connections>10</min-connections>
+            <connection-timeout>30000</connection-timeout>
+        </connection-pool>
+    </mongodb>
+</database-config>

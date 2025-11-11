@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <!-- Skip scanning of JARs for TLDs, web fragments, and annotations -->
+    <JarScanner>
+        <JarScanFilter defaultPluggabilityScan="false" 
+                       defaultTldScan="false"
+                       pluggabilityScan="false"
+                       tldScan="false"/>
+    </JarScanner>
+    
+    <!-- Prevent scanning of module-info.class files -->
+    <Loader delegate="true"/>
+</Context>

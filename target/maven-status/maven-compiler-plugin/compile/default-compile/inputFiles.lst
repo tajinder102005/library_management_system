@@ -1,0 +1,16 @@
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\dao\UserDAO.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\dao\BookDAO.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\model\BookIssue.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\util\DatabaseConnection.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\filter\AuthenticationFilter.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\servlet\ReportServlet.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\servlet\UserServlet.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\dao\BookIssueDAO.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\model\User.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\servlet\LogoutServlet.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\servlet\LoginServlet.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\util\PaginationHelper.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\model\Book.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\servlet\BookServlet.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\util\DatabaseInitializer.java
+C:\TajinderProjects\LIBSYS2.0\src\main\java\com\library\servlet\BookIssueServlet.java
